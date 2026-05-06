@@ -1,0 +1,22 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# RStudio temporales
+.Rproj.user/
+
+# Outputs generados
+/output/
+/figuras/
+*.pdf
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
